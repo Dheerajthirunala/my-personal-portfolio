@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "A personal portfolio project showcasing skills and projects.",
+  "main": "src/index.html",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
